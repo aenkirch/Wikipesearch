@@ -1,0 +1,8 @@
+body{
+  background-color: #C2CAE8;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  text-align: center;
+  font-family: 'Goudy Bookletter 1911', Georgia, Times, serif;
+}
